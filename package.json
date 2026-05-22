@@ -1,0 +1,13 @@
+{
+  "name": "SKILL X STORE",
+  "version": "1.0.0",
+  "description": "PAID HACKS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
